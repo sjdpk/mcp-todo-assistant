@@ -23,6 +23,11 @@ const migrations: Migration[] = [
         filename: '001_create_todos_table.sql',
         description: 'Create todos table'
     },
+    {
+        version: '002',
+        filename: '002_create_chat_tables.sql',
+        description: 'Create chat tables'
+    }
 ];
 
 async function ensureMigrationsTable(): Promise<void> {
