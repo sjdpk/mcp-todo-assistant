@@ -3,7 +3,8 @@
 This repository implements a demo project demonstrating a **Model Context Protocol (MCP)** assistant architecture integrated with a Todo application.
 
 The project is divided into three main components. Please refer to the `README.md` in each subdirectory for detailed setup, installation, and usage instructions.
-Tutorial Source: [Building an AI-Powered Todo App with MCP](https://sapkotadeepak.com.np/blog/todo-mcp-part1-backend-setup)
+
+##### *Tutorial Source: [Building an AI-Powered Todo App with MCP](https://sapkotadeepak.com.np/blog/todo-mcp-part1-backend-setup)*
 
 ## Project Structure
 
